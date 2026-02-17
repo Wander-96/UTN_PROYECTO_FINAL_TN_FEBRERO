@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import ContactSidebar from '../../Components/ContactSidebar/ContactSidebar'
+import ContactSidebar from '../../Components/ContactSideBar/ContactSideBar'
 import { useParams } from 'react-router'
 import { ContactsContext } from '../../Context/ContactsContext'
 
